@@ -1,4 +1,5 @@
-# 🎓 Placement Management System (Java + JDBC + MySQL)
+# 🎓 # 🚀 CareerUdaan: A Smart Placement Prediction Console App (Java + JDBC + MySQL)
+
 
 A console-based Java application that allows users to manage student placement records. It takes input from the user, stores student data in a MySQL database, and determines placement eligibility based on CGPA using JDBC.
 
