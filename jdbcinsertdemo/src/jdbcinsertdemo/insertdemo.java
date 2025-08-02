@@ -10,7 +10,7 @@ public class insertdemo {
         try {
             Class.forName("com.mysql.cj.jdbc.Driver");
             Connection conn = DriverManager.getConnection(
-                "jdbc:mysql://localhost:3306/placement_db", "root", "adarsh12345"
+                "jdbc:mysql://localhost:3306/placement_db", "root", "adars5"
             );
 
             while (true) {
@@ -143,3 +143,4 @@ public class insertdemo {
         sc.close();
     }
 }
+
